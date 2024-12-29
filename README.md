@@ -9,5 +9,5 @@
 
 ## Screenshots 
 
-<img width=1440 alt="Landing page" src=""></img>
-<img width=1440 alt="Result page" src="" ><img/>
+<img width=1440 alt="Landing page" src="Project Photos/Screenshot 2024-12-29 140516.png"></img>
+<img width=1440 alt="Result page" src="Project Photos/Screenshot 2024-12-29 1405167.png" ><img/>
